@@ -1,4 +1,4 @@
-> **⚠️ This project has moved to [docker-moltbot](https://github.com/inematds/docker-moltbot).** All future security updates will be in the new repo.
+> **⚠️ This project has moved to [docker-moltbot](https://github.com/linnoff88-dev/docker-moltbot).** All future security updates will be in the new repo.
 
 ---
 
