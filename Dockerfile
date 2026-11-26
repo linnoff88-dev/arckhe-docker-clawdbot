@@ -1,6 +1,6 @@
 FROM node:22-slim
 
-LABEL maintainer="inematds"
+LABEL maintainer="linnoff88-dev"
 LABEL description="Clawdbot - AI Personal Assistant with security hardening"
 
 # System dependencies

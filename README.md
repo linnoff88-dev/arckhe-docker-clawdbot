@@ -56,13 +56,13 @@ Setup Docker para [Clawdbot](https://docs.clawd.bot) ê¢â¬â assistente
 
 **Linux / Mac:**
 ```bash
-git clone https://github.com/inematds/docker-clawdbot.git
+git clone https://github.com/linnoff88-dev/docker-clawdbot.git
 cd docker-clawdbot
 ```
 
 **Windows (CMD ou PowerShell):**
 ```cmd
-git clone https://github.com/inematds/docker-clawdbot.git
+git clone https://github.com/linnoff88-dev/docker-clawdbot.git
 cd docker-clawdbot
 ```
 
@@ -336,11 +336,11 @@ Turbine seu Clawdbot com essas ferramentas adicionais:
 
 | Skill | InstalaêÂ§êÂ£o | Finalidade |
 |-------|------------|------------|
-| [Remotion Skills](https://github.com/inematds/remotion-skills) | Copie para `.codex/skills/` | Crie vêÂ­deos programaticamente com React |
+| [Remotion Skills](https://github.com/linnoff88-dev/remotion-skills) | Copie para `.codex/skills/` | Crie vêÂ­deos programaticamente com React |
 
 ```bash
 # Install Remotion Skills for Codex
-git clone https://github.com/inematds/remotion-skills.git /tmp/remotion-skills
+git clone https://github.com/linnoff88-dev/remotion-skills.git /tmp/remotion-skills
 mkdir -p .codex/skills
 cp -r /tmp/remotion-skills/skills/remotion .codex/skills/
 ```
